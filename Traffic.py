@@ -1,4 +1,3 @@
-#Top
 class Light():
     def __init__(self):
         self.stat = 'green'
